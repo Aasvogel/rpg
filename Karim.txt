@@ -1,21 +1,22 @@
 Karim: ich
 Pessegil: Gefiederter Elf
-Yushua: Chef des Kuriositäten-Kabinets
+Yushua: Chef des Kuriositätenkabinett
+Fakhry: Wache für Yushua
 
-Kuriositätenkabinett: -12
+Kuriositätenkabinett: bis 12
 
 "Es ist noch Humus da. Willst Du noch was?"
-"Danke, habe ich noch. Hast gibt's noch Fladenbrote?"
+"Danke, habe ich noch. Gibt's noch Fladenbrote?"
 Pessegil gab Karim ein Fladenbrot.
 "Schau Dir die Sterne an Karim! Welche Sternbilder erkennst Du?"
 "Jedesmal wenn wir in der Wüste schlafen fragst Du mich nach den Sternbildern. Die sind schwer!"
 Pessegil seufzte tief. Karim etwas beizubringen für das er sich nicht interessierte war schwer. Leider interessierte sich Karim nicht für viel.
 "Die Sterne erinnern mich an früher, als ich noch fliegen konnte."
 "Bevor Du für Yushua gearbeitet hast?"
-Pessegil schaute weg. Er wollte nicht dass Karim sein Gesicht sah. Er erinnerte sich nur allzu gut an die Zeit an dem die Calishitischen Häscher ihn fingen, ihm die Muskeln seiner Schwingen durchtrennten und ihn an Yushua verkauften. In seinem wandernden Kuriositäten-Kabinet wurde er seither ausgestellt.
-Mit Karim war es das gleicht. Mit seiner selbst für einen Oread sehr steinartigen Haut war auch er eine Atraktion.
+Pessegil schaute weg. Er wollte nicht dass Karim sein Gesicht sah. Er erinnerte sich nur allzu gut an die Zeit an dem die Calishitischen Häscher ihn fingen, ihm die Muskeln seiner Schwingen durchtrennten und ihn an Yushua verkauften. In seinem wandernden Kuriositätenkabinett wurde der Avariel seither ausgestellt.
+Mit Karim war es das Gleiche. Mit seiner selbst für einen Oread sehr steinartigen Haut war auch er eine Atraktion.
 "Yushua ist nett. Er gibt uns immer gut zu essen. Und wenn es nachts kalt wird gibt er uns Decken."
-Pessegil schluckte.
+Pessegil schluckte seine Mund voll Humus herunter.
 "Macht es Dir nichts aus, dass wir in jeder Stadt und Siedlung von einem Haufen Ignoranten begafft werden?"
 "Was sind ignoranten?"
 "Das sind Leute die nicht viel wissen."
@@ -23,3 +24,18 @@ Pessegil schluckte.
 Pessegil seufzte.
 "Karim! Yushua ist nicht unser Freund! Wir sind für ihn nur eine Investition, die er nicht verlieren möchte."
 "Was heißt Investition?"
+Pessegil seufzte nochmal.
+
+Tatsählich hatte Karim, auf gewisse Weise, recht; Das Leben bei Yushua war nicht schlecht. In seinem Kabinett stellte er Dinge aus allen Ecken des Kontinents dar. Ein Drachenei aus dem hohen Norden, kulturelle Artefakte aus dem fernen Osten, einen Tiger aus der Shaar, Pessegil und Karim, sogar die konservierte Leiche eines kleinen Dämons. Jedes seiner Ausstellungsstücke stellte für ihn eine erhebliche Investition dar die er nicht verlieren wollte.
+Yushua zog mit ein paar Wagen und ein paar Wachen durch die Wüste Calimshans, machte in jedem Ort halt und stellte seine Kuriositäten zu Schau. Für einen kleinen Betrag konnte Jedermann die Stücke betrachten. Manchmal kam auch ein ernsthafter Forscher und bezahlte eine größere Summe um einzelne Gegenstände in Ruhe zu studieren. Nach wenigen Tagen brach die kleine Gruppe aber immer wieder auf, zu neuen Orten und neuen neugierigen Leuten.
+
+"Vorsicht damit, Du Kisel! Wenn Du das fallen läst fängst Du eine!" Fakhry stand über Karim und schaute ihn böse an.
+"Nenn ihn nicht Kisel!" Pessegil half Karim die Kiste auf den Wagen zu laden.
+"Ich nenne ihn wie ich will! Und wenn Du aufmuckst bist Du auch drann. Und es gibt nichts wass Du dagegen machen kannst!"
+Karim meldete sich zu Wort: "Es macht mir nichts aus 'Kisel' genannt zu werden."
+Pessegil sah sich um. Alle anderen waren mit packen beschäftigt. "Sei ruhig! Und wenn Du ihn noch einmal Kisel nennst sage ich Yushua, dass Du letzten Monat das Drachenei fallengelassen hast."
+Fakhry wurde blass. "Das war nicht ich. Ich war noch nicht mal in der Nähe!"
+"Ja, aber Yushua weiß das nicht. Der Steinmetz war teuer und es gibt immer das Risiko das er erzählt das das Ei nicht echt ist..."
+Fakhry wusste dass Yushua Pessegil schon sehr lange kannte. Er war nicht unbedingt sein Freund, aber seinem Wort würde er glauben. "Setz einen Fuß falsch und ich bring Dich um." Mit diesen Worten ging Fakhry seinen anderen Pflichten nach.
+
+
