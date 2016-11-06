@@ -7,7 +7,9 @@ Shahida (w): Auch Sklavin, Verwalterin für die Sklaven von Yawad
 Malik: Sohn des Yawad
 Wadhaa: Feld-Sklavin
 Basil: Feld-Sklave
-
+Rana: "Anführerin der Freiheitsliebenden"
+Rihad: Haus Sklavin, Köchin
+Adiva: Haus Sklavin
 
 
 Kuriositätenkabinett: bis 15
@@ -119,6 +121,29 @@ Wobei Yawad dieser Möglichkeit schon nachgegangen war. Es war schießlich gar nic
 "Langsam werde ich noch paranoid." Dachte sich Yawad. Aber wenigstens wäre es nicht billig gewesen Malik zu bestechen, und das Geld wäre in der Familie geblieben. Wenn aber keine Magie im Spiel war, und kein Genius Loci, dann blieb nur noch der Zufall. Vieleicht hätte er in Calimhafen doch noch den Schrein von Tymora besuchen sollen. Einen kleinen Schrein von Chauntea hatten sie hier am Hof, aber, ehrlich gesagt, hatte Yawad weder für die Götter noch für die Magie etwas übrig gehabt. Er glaubte an harte Arbeit und Erfahrung. Sie würden dieses Jahr einfach den Lavendel mehr beschneiden und damit über die Runden kommen. Nächstes Jahr würden die anderen Erträge wieder besser werden.
 Diese Sorgen um den Hof verdrängten die Gedanken an das seltsame Schlachtfest hinter der Scheune, sowie den Jungen der der Sache auf den Grund gehen sollte.
 
+Nachdem Yawad gegangen war entspannte sich Shahida etwas. Sie setzte sich an die Scheunenwand und atmete tief durch. "Es tut mir leid, dass ich Dich da so hineingezogen habe. Du bist gerade erst hier angekommen und jetzt musst Du dich um dieses Schlamassel kümmern."
+Karim rührte mit einem halb verbrannten Stock in der Feuerstelle. "Das ist OK. Ich mag es nicht wenn ich nicht weiß was ich zu tun habe. Jetzt habe ich eine Aufgabe."
+"Hast Du irgend welche Erfahrung mit solchen Sachen?" Der Blick den Shahida im zuwarf war voller Zweifel.
+"Nein."
+"Ok. Also. Ich werde herausfinden was hier passiert ist. Ich brauche dich nur um mit Rana zu reden. Mich kann sie nicht leiden. Wir sollten also darauf achten, dass sie nicht mitbekommt, dass eigentlich ich das hier untersuche."
+Karim schaute Shahida an. "Nein." sagte er wieder. "Yawad hat gesagt, ich soll herausfinden war hier passiert ist. Also mach ich das." Er rührte wieder etwas in der Asche. "Wo warst Du?"
+Shahida war verwirrt. "Was? Wo war ich wann?"
+Karim deutete auf die Feuerstelle, die Knochen, Fellfetzen und blutige Erde. "Wo warst Du als das hier passiert ist?"
+Shahida schaute ihn ungläubig an. Für einen Moment verschlug es ihr die Sprache.
+Karim sah sie an. "Das muss ich fragen. Ich muss wissen wer hier war. Und das kriege ich heraus wenn ich weiß wer wo war."
+Da musste Shahida ihm recht geben. Auf eine andere Frage war Karim aber noch nicht gekommen. "Wann ist das den passiert? 
+Lass mich mal überlegen. Heute mittag bin ich hier vobeigekommen und die Feuerstelle war noch nicht da. Vor zwei Stunden habe ich die Stelle so gefunden, da war das Feuer noch nicht ganz aus. Es muss also zwischen der 7'ten und 10'ten Stunde passiert sein.
+Bevor du nochmal fragst; in der Zeit war ich zuerst im Haus, da haben Rihad und Adiva die Küche aufgeräumt, da muss man ihnen ein bischen auf die Finger schauen. Dann habe ich die Ernte überprüft. Danach habe ich mir zwei leute vom Lavendelfeld geholt damit sie Wasser verteilen. Das wird ab morgen übrigens deine Aufgabe sein."
+Shahida schaute Karim an. "Kanst Du Dir das merken?"
+Karim schaute zurück. "Kann ich einen paar Blatt Pergament und einen Kohlestift haben?"
+Diese Nachfrage überaschte Shahida sehr. "Kannst Du schreiben?"
+Karim sah zu Boden. "Pessegil hat mir gesagt, dass ich das für mich behalten soll. Er hat darauf bestanden es mir beizubringen. Das war schwer."
+"Ich werde mal schauen was sich machen lässt. Aber Du solltest es wirklich möglichst für dich behalten. Hast Du was gefunden?"
+Karim hatte, von neben der Feuerstelle unter einem Stück Fell, etwas aufgehoben. Bei genauerer Betrachtung stellte sich heraus, dass es ein Knopf war. Ein einfacher Knopf aus Horn.
+"Der sieht genau so aus wie die Knöpfe an unseren Hemden." sagte Shahida.
+Karim steckte den Knopf rasch ein. "Ich möchte mich hier noch etwas alleine umschauen."
+Shahida war etwas verstimmt, stimmte Karim aber zu. "Wenn Du fertig bist, komm einfach da vorne um die Ecke. Frag nach Wadhaa."
+Nachdem Shahida gegangen war suchte Karim die Feuerstelle und die Umgebung nochmnal ab. Kurz vor Sonnenuntergang ging er dann um die angegebene Ecke zu den Hütten der sklaven.
 
 
 
@@ -128,3 +153,6 @@ Shahida (w): Auch Sklavin, Verwalterin für die Sklaven von Yawad
 Malik: Sohn des Yawad
 Wadhaa: Feld-Sklavin
 Basil: Feld-Sklave
+Rana: "Anführerin der Freiheitsliebenden"
+Rihad: Haus Sklavin, Köchin
+Adiva: Haus Sklavin
