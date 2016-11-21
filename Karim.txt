@@ -1,15 +1,6 @@
-Karim: ich
 Pessegil: Gefiederter Elf
 Yushua: Chef des Kuriositätenkabinett
 Fakhry: Wache für Yushua
-Yawad: Großbauer
-Shahida (w): Auch Sklavin, Verwalterin für die Sklaven von Yawad
-Malik: Sohn des Yawad
-Wadhaa: Feld-Sklavin
-Basil: Feld-Sklave
-Rana: "Anführerin der Freiheitsliebenden"
-Rihad: Haus Sklavin, Köchin
-Adiva: Haus Sklavin
 
 
 Kuriositätenkabinett: bis 15
@@ -133,7 +124,7 @@ Shahida schaute ihn ungläubig an. Für einen Moment verschlug es ihr die Sprache.
 Karim sah sie an. "Das muss ich fragen. Ich muss wissen wer hier war. Und das kriege ich heraus wenn ich weiß wer wo war."
 Da musste Shahida ihm recht geben. Auf eine andere Frage war Karim aber noch nicht gekommen. "Wann ist das den passiert? 
 Lass mich mal überlegen. Heute mittag bin ich hier vobeigekommen und die Feuerstelle war noch nicht da. Vor zwei Stunden habe ich die Stelle so gefunden, da war das Feuer noch nicht ganz aus. Es muss also zwischen der 7'ten und 10'ten Stunde passiert sein.
-Bevor du nochmal fragst; in der Zeit war ich zuerst im Haus, da haben Rihad und Adiva die Küche aufgeräumt, da muss man ihnen ein bischen auf die Finger schauen. Dann habe ich die Ernte überprüft. Danach habe ich mir zwei leute vom Lavendelfeld geholt damit sie Wasser verteilen. Das wird ab morgen übrigens deine Aufgabe sein."
+Bevor du nochmal fragst; in der Zeit war ich zuerst im Haus, da haben Rihad und Adiva die Küche aufgeräumt, da muss man ihnen ein bischen auf die Finger schauen. Dann habe ich die Ernte überprüft. Danach habe ich mir zwei Leute vom Lavendelfeld geholt damit sie Wasser verteilen. Das wird ab morgen übrigens deine Aufgabe sein."
 Shahida schaute Karim an. "Kanst Du Dir das merken?"
 Karim schaute zurück. "Kann ich einen paar Blatt Pergament und einen Kohlestift haben?"
 Diese Nachfrage überaschte Shahida sehr. "Kannst Du schreiben?"
@@ -143,17 +134,110 @@ Karim hatte, von neben der Feuerstelle unter einem Stück Fell, etwas aufgehoben.
 "Der sieht genau so aus wie die Knöpfe an unseren Hemden." sagte Shahida.
 Karim steckte den Knopf rasch ein. "Ich möchte mich hier noch etwas alleine umschauen."
 Shahida war etwas verstimmt, stimmte Karim aber zu. "Wenn Du fertig bist, komm einfach da vorne um die Ecke. Frag nach Wadhaa."
-Nachdem Shahida gegangen war suchte Karim die Feuerstelle und die Umgebung nochmnal ab. Kurz vor Sonnenuntergang ging er dann um die angegebene Ecke zu den Hütten der Sklaven.
+Nachdem Shahida gegangen war suchte Karim die Feuerstelle und die Umgebung nochmnal ab. Kurz vor Sonnenuntergang ging er dann um die angegebene Ecke zu den Hütten der Sklaven, seinem neuen Zuhause.
+
+Die Hütten der Sklaven stehen hinter der Scheune, nah beieinander, als wollten sie sich gegenseitig Schutz geben. Der kleine Platz vor den Hütten öffnet sich nach Nord Osten hin, zu den offenen Feldern. Abends sitzen die Sklaven, die keine Abend im Haus haben, zusammen, essen, trinken und ruhen sich aus. An jenem Abend holte Basil seine Gitarre hervor und sang ein Lied das alle die am Feuer saßen kannten. Über den Helden der zum Genius Loki des Lavendelhofs wurde.
+
+Es war einst ein Räuber, sein Name war Abe.
+Riesig sein Körper von tiefblauer Farbe.
+Heya, kohlescharzes Herz
+Er log und er stahl, der Schrecken der Händler. 
+Er nahm was er wollte, er schohnte nicht einen.
+Heya, kohleschwarzes Herz.
+Die Gegend befreien versuchten gar viele.
+doch alle sie starben durch seine Hand.
+
+Es war einst ein Mädchen, die schönste von allen.
+Ihr wahren die Männer alle verfallen.
+Heya, rabenschwarzes Haar.
+Die schönheit der Wüste, ihr Name war Fajr.
+Man kannte den Namen bis nach Calimhafen.
+Heya, rabenschwarzes Haar.
+Ihr Herz zu erobern versuchten gar viele.
+Sie hörte auf keinen, sie blieb noch alleine.
+
+Und Abe der hörte von Fajrs Schönheit.
+Er wollte sie haben und suchte ihre Bleibe.
+Heya, kohleschwarze Nacht.
+Mit seiner Macht mit seiner Kraft
+Wollte er sie an sich binden.
+Heya, kohleschwarze Nacht.
+Doch als er sie fragte und sie ihn nicht wollte
+da nahm er sie sich auch ohne ihren Willen.
+
+Es war einst ein Jüngling mit Namen Hamal.
+Der hörte die Schreie und eilte zur Hilfe.
+Heya, Tag der Entscheidung
+Er Kämpfte mit Abe und schlug ihn dann nieder.
+Die Quelle entspringt dort wo dieser lag.
+Heya, Tag der Entscheidung
+Slebst tödlich getroffen sank Hamal nieder.
+Er wacht über uns und über das Land.
+
+Hier hörte Basil auf zu singen. Aber eine große, starke Frau sang umso lauter:
+
+Er sieht unsre Mühe und unsren Schweiß.
+Er hört unsre Klagen und unser Weinen.
+Heya, das wird ein Tag
+Er wird unser Schreien endlich erhören.
+Er wird uns befreien aus unserer Knechtschaft.
+Heya, bald ist er da.
+Die Ketten und Fesseln werden dann fallen.
+Die Freiheit wird er uns wiedergeben.
+
+Shahida schaute sich vorsichtig um. Es war eher selten, dass sich eine Wache in diese Ecke des Hofes verirrte, und wenn würde sie sich um Worte nicht weiter kümmern. Dennoch sollte gerade Rana etwas vorsichtiger sein. Sie sah jedoch nur eine Reihe von müden Gesichtern. Und sie sah Karim im Gespräch mit Wadhaa. 
+
+"... da ist ein kleines Loch in der Wand, ich hoffe die Kälte macht Dir nix aus."
+"Stimmt. Shahida hat gesagt dass Du mir eine Decke extra geben sollst." sagte Karim.
+Wadhaa war eine junge Frau von 22 Jahren. Sie hatte starke Hände und eine Wettergegerbte Haut. "Hm, ok. Zweimal Klamotten hast Du. Pass gut auf sie auf! Es gibt nicht oft neue, wenn sie kaput gehen musst Du sie selber flicken oder kaput anziehen. Ich glaube dass war so das wichtigste. Wenn Du noch was wissen willst frag einfach."
+"Danke!" Karim schaute zu einer Frau die in einem großen Topf auf dem Feuer rührte. 
+Wadhaa grinste. "Hast wohl Hunger. Keine Sorge dauert nicht mehr lang. Das ist Rihad. Sie kocht für uns. Für Yawad auch. Deshalb dauerts bei uns immer etwas länger. Lohnt sich aber." In der Tat kahm aus dem Topf ein verführerischer Duft nach Tymian.
+Wadhaa wechselte das Thema. "Hast Du das mit der Ziege gehört. Da wollte einer nicht länger warten. Ich frag mich wer das war." 
+Karim wurde neugierig. "Was glaubt Du wer es war?"
+Die junge Frau schaute sich die Gesichter der anderen Anwesenden an. "Ich glaube Rana wars. Sie hat immer Hunger und macht immer Ärger. Letztes Jahr ist sie weggelaufen. Ist aber nicht weit gekommen. Dafür wurde sie Verprügelt und hat eine Woche nur halbe Rationen bekommen."
+"Wo hätte Rana den sein sollen?" Fragte Karim.
+"Wann?"
+"Als die Ziege geschlachtet wurde. So zwischen der 7'ten und 10'ten Stunde."
+Wadhaa war sich sicher. "Heute nachmittag war Rana mit auf dem Lavendelfeld. Bis Shahida gekommen ist. Dann musste sie Wasser tragen. Das ist super anstrengend."
+Karim war verwirrt. "Wenn Du Rana heute nachmittag die ganze Zeit gesehen hast, wie konnte sie dann die Ziege schlachten."
+"Hm. Daran habe ich gar nicht gedacht. Wie dumm von mir. Dann kann es Rada nicht gewesen sein."
+Nun war wohl das Essen fertig. Es gab frische Oliven, Datteln und Orangen. Dazu einen Reis, der mit Thymian und Knoblauch gekocht war. Erst jetzt merkte Karim, dass er seit dem Morgen nichts mehr gegessen hatte, und so wurde für kurze Zeit das Gespräch unterbrochen.
+
+Karim war sehr in sein Essen vertieft, so merkte er gar nicht, dass sich eine Wache näherte. "Hey, Du! Neuer! Malik will mit Dir sprechen."
+Wadhaa erschrak etwas bei dem Namen. "Yawads Sohn." Flüsterte sie Karim zu.
+Karim schluckte schnell den aktuellen Bissen heruter, stellte den Teller weg und stand auf. Die Wache zeigte auf die Scheune "Da hinten."
+Als Karim um die Scheune kam sah er einen jungen Mann, der sich gerade die Feuerstelle ansah. Er vieleicht wenige Jahre älter als Karim und hochgewachsen. Er trug eine reich verzierte Robe, die Karim hauptsächlich unpraktisch fand. 
+Malik sah ihn von oben herab an. "Du bist Karim? Mein Vater hat gesagt ich soll Dir das hier geben." Er reichte dem Sklaven ein paar Blatt Papier und einen Kohlestift. "Du sollst herausfinden wer das hier war? Reine Zeitverschwendung."
+Karim war verwirrt "Willst Du nicht wissen wer das hier war?" 
+Malik machte einen Schrit auf Karim zu. Er überragte ihn um einen Kopf. "Du wirst mich mit dem gebürenden Respekt behandeln, Sklave! Du wirst mich nicht so vertraulich anreden! Hast Du das verstanden?"
+Karim zog den Kopf ein, machte sich damit noch kleiner als er ohnehin schhon war. "Ich bitte euch um Verzeihung. Aber warum haltet Ihr es für Zeitverschwendung den Dieb ausfindig zu machen?"
+"Es war ein Sklave. Wenn es nach mir ginge würde ich euch Sklaven bestrafen und die Sache wäre erledigt."
+"Aber dann hättet Ihr auch unschuldige bestraft."
+"Ja, und die würden es an die Schuldigen weitergeben. Problem gelöst."
+Darauf wusste Karim nichts zu sagen.
+Malik grinste schief "Wenn es Dir Spass macht dann such ruhig weiter! Aber lass Dir ja nicht einfallen darüber deine normalen Pflichten zu vernahlässigen! Du bist hier für die Bewässerung zuständig. Also trag Wasse!"
+"Yawad hat aber gesagt, dass ich herausfinden soll wer die Ziege gestohlen hat."
+"Mein Vater hat Dich dafür aber nicht von deiner Arbeit freigestellt. Die Erträge dieses Jahr sind mager genug. Wenn wegen Dir auch nur eine Pflanze vertrocknet sorge ich dafür, dass du eine Tracht Prügel bekommst wie Du sie noch nie bekommen hast. Hast Du mich verstanden?"
+Mit diesen Worten drehte sich Malik um und ging zurück in Richtung Haus. Der Schritt war nicht so beeindruckend wie Karim es erwartet hatte, darauf verschwendete er aber nicht zu viele Gedanken. Er machte sich viel mehr Sorgen wie er es in einem Tag herausfinden sollte wer die Ziege gestohlen hatte, während er gleichzeitig die Felder bewässert.
+
+In dieser Nacht schlief Karim unruhig. Er träumte er wäre eine Ziege und wurde von einem blauen Riesen mit dem Gesicht von Malik verfolgt. Während im Hintergrund Shahida Knöpfe an Yawads Hemd nähte. Plötzlich wachte er auf. Es war noch mitten in der Nacht und dunkel. Durch das Loch in der Wand konnte er die Wand der Scheune sehen, die vom Mondlicht hell war. Er hörte das Atmen von Basil, der neben ihm schlief.
+Plötzlich vermisste er Pessegil. Der alte geflügelte Elf war das näheste das Karim an Vater oder Mutter gekannt hatte. Aber nachdehm sie getrennt verkauft worden waren würde er ihn nie wieder sehen. Tränen stiegen Karim in die Augen. Leise, damit die anderen nicht aufwachten weinte Karim in sein Kissen. Darüber schlief er wieder ein.
 
 
 
 
 Karim: ich
 Yawad: Großbauer
-Shahida (w): Auch Sklavin, Verwalterin für die Sklaven von Yawad
+Shahida (w): Auch Sklavin, Verwalterin für die Sklaven von Yawad; 7'te und 10'te Stunde
 Malik: Sohn des Yawad
 Wadhaa: Feld-Sklavin
-Basil: Feld-Sklave
-Rana: "Anführerin der Freiheitsliebenden"
+Basil: Feld-Sklave (Musiker)
+Rana: "Anführerin der Freiheitsliebenden" (Feld)
+Mazin: "tatsächicher" Anführer der Freiheitsliebenden (Feld)
 Rihad: Haus Sklavin, Köchin
 Adiva: Haus Sklavin
+
+Sage des Genius Loki:
+	Abe: Böser Wassergeist
+	Hamal: Der Held "Genius Loki"
+	Fajr: Freundin des Hamal
